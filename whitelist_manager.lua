@@ -1,0 +1,198 @@
+{
+  "1693751684": {
+    "name": "desire",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "1065346704": {
+    "name": "abstract",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3918755017": {
+    "name": "taz",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "8031825556": {
+    "name": "arin",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "8138482089": {
+    "name": "Vape Owner Acc",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "6010245822": {
+    "name": "tensai",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "7421025749": {
+    "name": "aero",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "7053978438": {
+    "name": "desire alt",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "1333860334": {
+    "name": "GWY",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3807371985": {
+    "name": "aero alt",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "8142672492": {
+    "name": "abstract alt",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3235606769": {
+    "name": "Prase",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "4609130313": {
+    "name": "Don",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "2604377944": {
+    "name": "Dons Alt",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "7998668127": {
+    "name": "Desire alt 2",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "1741283905": {
+    "name": "Mafia",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3563319189": {
+    "name": "wdz",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3053277154": {
+    "name": "tensai 2",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "7649222703": {
+    "name": "tensai 3",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "1221782757": {
+    "name": "mafia 2",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "6107046507": {
+    "name": "wdz again",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "1242812873": {
+    "name": "batman",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "2459249971": {
+    "name": "don 3",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "1775086376": {
+    "name": "don 4",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3249946583": {
+    "name": "ducky",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3206701158": {
+    "name": "breezy",
+    "tier": "basic",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3622845136": {
+    "name": "Abstracts New Alt",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  },
+  "3088639421": {
+    "name": "AERO NEW MAIN",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
+  }
+}
