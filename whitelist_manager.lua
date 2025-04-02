@@ -1,7 +1,7 @@
 local WhitelistManager = {}
 
 -- Configuration - Your whitelist URL
-local whitelist_url = "https://raw.githubusercontent.com/wrealaero/whitelistcheck/main/whitelist.json"
+local whitelist_url = "https://raw.githubusercontent.com/wrealaero/whitelistcheck/refs/heads/main/newwhitlist.json"
 
 -- Fetch whitelist from GitHub
 function WhitelistManager:fetchWhitelist()
