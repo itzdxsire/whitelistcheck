@@ -34,13 +34,6 @@
     "hwid": null,
     "banned": false
   },
-  "6010245822": {
-    "name": "tensai",
-    "tier": "basic",
-    "expiry": 1735689600,
-    "hwid": null,
-    "banned": false
-  },
   "7421025749": {
     "name": "aero",
     "tier": "premium",
@@ -118,20 +111,6 @@
     "hwid": null,
     "banned": false
   },
-  "3053277154": {
-    "name": "tensai 2",
-    "tier": "basic",
-    "expiry": 1735689600,
-    "hwid": null,
-    "banned": false
-  },
-  "7649222703": {
-    "name": "tensai 3",
-    "tier": "basic",
-    "expiry": 1735689600,
-    "hwid": null,
-    "banned": false
-  },
   "1221782757": {
     "name": "mafia 2",
     "tier": "basic",
@@ -181,10 +160,10 @@
     "hwid": null,
     "banned": false
   },
-  "3622845136": {
+  "3535937543": {
     "name": "Abstracts New Alt",
     "tier": "premium",
-    "expiry": 3535937543,
+    "expiry": 1735689600,
     "hwid": null,
     "banned": false
   },
