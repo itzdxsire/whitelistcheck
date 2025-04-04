@@ -180,5 +180,12 @@
     "expiry": 1735689600,
     "hwid": null,
     "banned": false
+  },
+  "5196847916": {
+    "name": "croc",
+    "tier": "premium",
+    "expiry": 1735689600,
+    "hwid": null,
+    "banned": false
   }
 }
