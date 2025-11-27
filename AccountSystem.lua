@@ -2,69 +2,47 @@ return {
     Accounts = {
         {
             Username = "Aero",
-            Password = "bigdaddyaero",
-            HardwareId = "",
-            IsActive = true
+            Password = "bigdaddyaero"
         },
         {
             Username = "dexterv83741",
-            Password = "Tamarind12@",
-            HardwareId = "", 
-            IsActive = true
+            Password = "Tamarind12@"
         },
         {
             Username = "Sxvy",
-            Password = "Sxvy1234",
-            HardwareId = "",
-            IsActive = true
+            Password = "Sxvy1234"
         },
         {
             Username = "Jellyzlover",
-            Password = "Rankgame55",
-            HardwareId = "",
-            IsActive = true
+            Password = "Rankgame55"
         },
         {
             Username = "mightymafia",
-            Password = "mafiaclantop1clan",
-            HardwareId = "",
-            IsActive = true
+            Password = "mafiaclantop1clan"
         },
         {
             Username = "bedwars_yopro",
-            Password = "bw_@adol43(¿¡)9#334",
-            HardwareId = "",
-            IsActive = true
+            Password = "bw_@adol43(¿¡)9#334"
         },
         {
-            Username = "Desire",
-            Password = "VuthyVong",
-            HardwareId = "",
-            IsActive = true
+            Username = "DesireWalkEmDownWitSwitch",
+            Password = "Desire69420"
         },
         {
             Username = "abstract",
-            Password = "abstractspunyoblock",
-            HardwareId = "",
-            IsActive = true
+            Password = "abstractspunyoblock"
         },
         {
             Username = "demariodaviss12",
-            Password = "12345678",
-            HardwareId = "",
-            IsActive = true
+            Password = "12345678"
         },
         {
             Username = "s1mplybreezy",
-            Password = "thegoatbreezy1234@",
-            HardwareId = "",
-            IsActive = true
+            Password = "thegoatbreezy1234@"
         },
         {
             Username = "theerm",
-            Password = "theerm1234",
-            HardwareId = "",
-            IsActive = true
+            Password = "theerm1234"
         }
     }
 }
