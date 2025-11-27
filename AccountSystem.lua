@@ -37,8 +37,8 @@ return {
             IsActive = true
         },
         {
-            Username = "DesireWalkEmDownWitSwitch",
-            Password = "Desire69420",
+            Username = "Desire",
+            Password = "VuthyVong",
             HardwareId = "",
             IsActive = true
         },
