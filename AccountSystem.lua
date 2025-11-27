@@ -43,8 +43,8 @@ return {
             IsActive = true
         },
         {
-            Username = "allentheprime",
-            Password = "allenonthatbeat",
+            Username = "abstract",
+            Password = "abstractspunyoblock",
             HardwareId = "",
             IsActive = true
         },
