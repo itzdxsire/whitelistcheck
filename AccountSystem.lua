@@ -43,6 +43,14 @@ return {
         {
             Username = "theerm",
             Password = "theerm1234"
+        },
+        {
+            Username = "mosa",
+            Password = "mosa1234"
+        },
+        {
+            Username = "5qpr",
+            Password = "uzzalovesmydick"
         }
     }
 }
