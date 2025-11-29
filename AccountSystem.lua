@@ -89,6 +89,11 @@ return {
             Username = "sytheronthatbeat",
             Password = "syther1234",
             IsActive = true
+        },
+        {
+            Username = "96jays",
+            Password = "SigmaFish",
+            IsActive = true
         }
     }
 }
