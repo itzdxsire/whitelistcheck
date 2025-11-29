@@ -79,6 +79,11 @@ return {
             Username = "IlllllIIIIIlllIIlIll",
             Password = "BlizzardStocks77",
             IsActive = true
+        },
+        {
+            Username = "yinptsd",
+            Password = "yinyangpowers",
+            IsActive = true
         }
     }
 }
