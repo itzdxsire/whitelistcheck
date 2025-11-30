@@ -31,8 +31,8 @@ return {
             IsActive = true
         },
         {
-            Username = "abstract",
-            Password = "abstractspunyoblock",
+            Username = "Ahmed",
+            Password = "PussyNeverSpunShit",
             IsActive = true
         },
         {
