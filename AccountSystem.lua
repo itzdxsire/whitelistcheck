@@ -51,11 +51,6 @@ return {
             IsActive = true
         },
         {
-            Username = "mosa",
-            Password = "mosa1234",
-            IsActive = true
-        },
-        {
             Username = "5qpr",
             Password = "uzzalovesmydick",
             IsActive = true
@@ -63,16 +58,6 @@ return {
         {
             Username = "Minhal",
             Password = "coolsigma123",
-            IsActive = true
-        },
-        {
-            Username = "1yzal",
-            Password = "YinYangCult",
-            IsActive = true
-        },
-        {
-            Username = "IlllllIIIIIlllIIlIll",
-            Password = "BlizzardStocks77",
             IsActive = true
         },
         {
