@@ -12,7 +12,7 @@ return {
         },
         {
             Username = "Sxvy",
-            Password = "Sxvy1234",
+            Password = "uglyshitter",
             IsActive = true
         },
         {
