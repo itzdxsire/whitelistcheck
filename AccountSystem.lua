@@ -26,13 +26,8 @@ return {
             IsActive = true
         },
         {
-            Username = "bedwars_yopro",
-            Password = "bw_@adol43(¿¡)9#334",
-            IsActive = true
-        },
-        {
             Username = "DesireWalkEmDownWitSwitch",
-            Password = "Desire69420",
+            Password = "FuckKiwi",
             IsActive = true
         },
         {
@@ -78,16 +73,6 @@ return {
         {
             Username = "IlllllIIIIIlllIIlIll",
             Password = "BlizzardStocks77",
-            IsActive = true
-        },
-        {
-            Username = "yinptsd",
-            Password = "yinyangpowers",
-            IsActive = true
-        },
-        {
-            Username = "sytheronthatbeat",
-            Password = "syther1234",
             IsActive = true
         },
         {
