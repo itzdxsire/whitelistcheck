@@ -12,7 +12,7 @@ return {
         },
         {
             Username = "Dr",
-            Password = "scatbooty",
+            Password = "ScatPorn",
             IsActive = true
         },
         {
