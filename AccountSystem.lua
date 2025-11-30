@@ -6,42 +6,42 @@ return {
             IsActive = true
         },
         {
-            Username = "Dexter",
+            Username = "dexterv83741",
             Password = "Tamarind12@",
             IsActive = true
         },
         {
             Username = "Sxvy",
-            Password = "uglyshitter",
+            Password = "Sxvy1234",
             IsActive = true
         },
         {
-            Username = "Kiwi",
+            Username = "Jellyzlover",
             Password = "Rankgame55",
             IsActive = true
         },
         {
-            Username = "Mafia",
+            Username = "mightymafia",
             Password = "mafiaclantop1clan",
             IsActive = true
         },
         {
-            Username = "Desire",
+            Username = "DesireWalkEmDownWitSwitch",
             Password = "FuckKiwi",
             IsActive = true
         },
         {
-            Username = "ahmed",
+            Username = "abstract",
             Password = "abstractspunyoblock",
             IsActive = true
         },
         {
-            Username = "Croc",
+            Username = "demariodaviss12",
             Password = "12345678",
             IsActive = true
         },
         {
-            Username = "BetaBreezy",
+            Username = "s1mplybreezy",
             Password = "thegoatbreezy1234@",
             IsActive = true
         },
@@ -51,17 +51,32 @@ return {
             IsActive = true
         },
         {
-            Username = "Gwy",
+            Username = "mosa",
+            Password = "mosa1234",
+            IsActive = true
+        },
+        {
+            Username = "5qpr",
             Password = "uzzalovesmydick",
             IsActive = true
         },
         {
-            Username = "Min",
+            Username = "Minhal",
             Password = "coolsigma123",
             IsActive = true
         },
         {
-            Username = "Chase",
+            Username = "1yzal",
+            Password = "YinYangCult",
+            IsActive = true
+        },
+        {
+            Username = "IlllllIIIIIlllIIlIll",
+            Password = "BlizzardStocks77",
+            IsActive = true
+        },
+        {
+            Username = "96jays",
             Password = "SigmaFish",
             IsActive = true
         },
