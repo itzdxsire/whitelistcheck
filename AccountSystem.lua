@@ -11,6 +11,11 @@ return {
             IsActive = true
         },
         {
+            Username = "Dr",
+            Password = "scatbooty",
+            IsActive = true
+        },
+        {
             Username = "Sxvy",
             Password = "uglyshitter",
             IsActive = true
