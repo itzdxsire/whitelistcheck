@@ -6,7 +6,7 @@ return {
             IsActive = true
         },
         {
-            Username = "dexterv83741",
+            Username = "Dexter",
             Password = "Tamarind12@",
             IsActive = true
         },
@@ -16,32 +16,32 @@ return {
             IsActive = true
         },
         {
-            Username = "Jellyzlover",
+            Username = "Kiwi",
             Password = "Rankgame55",
             IsActive = true
         },
         {
-            Username = "mightymafia",
+            Username = "Mafia",
             Password = "mafiaclantop1clan",
             IsActive = true
         },
         {
-            Username = "DesireWalkEmDownWitSwitch",
+            Username = "Desire",
             Password = "FuckKiwi",
             IsActive = true
         },
         {
-            Username = "abstract",
+            Username = "ahmed",
             Password = "abstractspunyoblock",
             IsActive = true
         },
         {
-            Username = "demariodaviss12",
+            Username = "Croc",
             Password = "12345678",
             IsActive = true
         },
         {
-            Username = "s1mplybreezy",
+            Username = "BetaBreezy",
             Password = "thegoatbreezy1234@",
             IsActive = true
         },
@@ -51,17 +51,17 @@ return {
             IsActive = true
         },
         {
-            Username = "5qpr",
+            Username = "Gwy",
             Password = "uzzalovesmydick",
             IsActive = true
         },
         {
-            Username = "Minhal",
+            Username = "Min",
             Password = "coolsigma123",
             IsActive = true
         },
         {
-            Username = "96jays",
+            Username = "Chase",
             Password = "SigmaFish",
             IsActive = true
         },
